@@ -13,16 +13,12 @@ My research interests include reinforcement learning, machine learning, nonparam
 
 Before joining WashU, I obtained my Bachelor of Science in Mathematics from Tsinghua University.
 
----
-
 ## Research Interests
 
 - Reinforcement Learning
 - Nonparametric Statistics
 - Machine Learning
 - AI for Healthcare and Business
-
----
 
 ## Working Papers
 
@@ -32,7 +28,6 @@ Before joining WashU, I obtained my Bachelor of Science in Mathematics from Tsin
 3. **The Value of a Mechanism in Reinforcement Learning**  
    **Yicheng Teng**, Ran Chen.<br>Working paper.
 
----
 
 ## Talks
 
