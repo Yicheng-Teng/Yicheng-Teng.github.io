@@ -27,12 +27,10 @@ Before joining WashU, I obtained my Bachelor of Science in Mathematics from Tsin
 ## Working Papers
 
 1. **Personalized Reinforcement Learning with Nonparametric Kernel Embeddings**  
-   Yicheng Teng, Ran Chen.
-   Manuscript in preparation.
+   **Yicheng Teng**, Ran Chen.<br>Manuscript in preparation.
 
-2. **The Value of a Mechanism in Reinforcement Learning**  
-   Yicheng Teng, Ran Chen.  
-   Working paper.
+3. **The Value of a Mechanism in Reinforcement Learning**  
+   **Yicheng Teng**, Ran Chen.<br>Working paper.
 
 ---
 
