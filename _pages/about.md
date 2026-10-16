@@ -7,25 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Statistics at Washington University in St. Louis, where I am fortunate to be advised by Prof. [Ran Chen](https://sds.washu.edu/people/ran-chen). Meanwhile, I am a scholar of the [McDonnell International Scholars Academy](https://mcdonnell.washu.edu/) at WashU.
+I am a Ph.D. student in Statistics at Washington University in St. Louis, where I am advised by Prof. [Ran Chen](https://sds.washu.edu/people/ran-chen). Meanwhile, I am a scholar of the [McDonnell International Scholars Academy](https://mcdonnell.washu.edu/) at WashU.
 
-My research interests include reinforcement learning, machine learning, nonparametric statistics, and their applications in business and healthcare.
+My research focuses on the **statistical foundations of reinforcement learning**. I am particularly interested in developing efficient and adaptive learning methods for heterogeneous and evolving environments, and understanding how the availability and structure of data affect sequential decision-making. My work draws on reinforcement learning, nonparametric statistics, and statistical learning theory, with potential applications in healthcare and business.
 
 Before joining WashU, I obtained my Bachelor of Science in Mathematics from Tsinghua University.
 
 ## Research Interests
 
-- Reinforcement Learning
-- Nonparametric Statistics
-- Machine Learning
-- AI for Healthcare and Business
+-**Reinforcement Learning**: Personalized RL, Non-stationary RL, Offline and Online Learning
+-**Nonparametric Statistics**: Kernel Methods, Statistical Learning Theory
+-**Applications**: AI for Healthcare and Business
 
 ## Working Papers
 
 1. **Personalized Reinforcement Learning with Nonparametric Kernel Embeddings**  
-   **Yicheng Teng**, Ran Chen.<br>To be submitted to Journal of American Statistical Association.
+   **Yicheng Teng**, Ran Chen.<br>Manuscript in preparation.
 
-2. **The Value of a Mechanism in Reinforcement Learning**  
+2. **How offline data shape the value of online interaction**  
    **Yicheng Teng**, Ran Chen.<br>Working paper.
 
 
@@ -35,5 +34,5 @@ Before joining WashU, I obtained my Bachelor of Science in Mathematics from Tsin
    Joint Statistical Meetings, Boston, 2026.
 
 ## Teaching
-1. TA: SDS5525 Theory of Statistics (2026fall)
-2. TA: SDS5515 Probability Theory for Statistics and Data Science (2026fall)
+1. TA: SDS5525 Theory of Statistics (Fall 2026)
+2. TA: SDS5515 Probability Theory for Statistics and Data Science (Fall 2026)
