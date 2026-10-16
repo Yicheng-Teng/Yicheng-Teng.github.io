@@ -15,9 +15,11 @@ Before joining WashU, I obtained my Bachelor of Science in Mathematics from Tsin
 
 ## Research Interests
 
--**Reinforcement Learning**: Personalized RL, Non-stationary RL, Offline and Online Learning
--**Nonparametric Statistics**: Kernel Methods, Statistical Learning Theory
--**Applications**: AI for Healthcare and Business
+**Reinforcement Learning**: Personalized RL, Non-stationary RL, Offline and Online Learning
+
+**Nonparametric Statistics**: Kernel Methods, Statistical Learning Theory
+
+**Applications**: AI for Healthcare and Business
 
 ## Working Papers
 
